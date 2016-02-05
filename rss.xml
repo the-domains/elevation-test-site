@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Elevation Test Site]]></title>
+        <description><![CDATA[Elevation Test Site]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 05 Feb 2016 05:25:43 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>MarketSource launches a new brand delivering better sales</p>]]></description>
+            <link>undefinedf839b303-8366-48ca-b128-196664b15f9c/index.html</link>
+            <guid isPermaLink="false">f839b303-8366-48ca-b128-196664b15f9c</guid>
+            <pubDate>Fri, 05 Feb 2016 05:25:42 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
