@@ -1,0 +1,28 @@
+name: Elevation Test Site
+favicon: null
+layout_spectrum: 0.05934450798667967
+typography_spectrum: 0.5680122342891991
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.23445840971544385
+  lightness: 0.2868687668815255
+  saturation: 0.9538089176639915
+  rhythmicContrast: 0.8013474964536726
+purpose: []
