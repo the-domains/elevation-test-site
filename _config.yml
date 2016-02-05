@@ -1,6 +1,6 @@
 name: Elevation Test Site
 favicon: null
-layout_spectrum: 0.50963
+layout_spectrum: 1
 typography_spectrum: 0.60847
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#000000'
     - '#c9c9c9'
     - '#818181'
-  brandStrength: 0.5625
-  lightness: 0.2868687668815255
-  saturation: 0.9538089176639915
-  rhythmicContrast: 0.75
+  brandStrength: 0.1875
+  lightness: 0.5
+  saturation: 0.625
+  rhythmicContrast: 1
 purpose: []
